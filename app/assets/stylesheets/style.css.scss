@@ -14,6 +14,7 @@ background-color:purple
 body{
   font-family: Geneva,Tahoma,Verdana,sans-serif;
 	color: SteelBlue;
+		text-align: left; 
 
 	// padding: 30px;
 	// font-size: 16px;
@@ -26,26 +27,33 @@ header {
 	// margin-bottom: 40px;
 }
 
-h1 { font-size: 20px;
+h1 { font-size: 6px;
+		padding: 10px;
+		text-align: left; 
 	 // font-weight: 700;}
 
 h2
 { color: white;
-	font-size: 20px; 
+padding: 20px;
+text-align: left; 
+	font-size: 8px; 
 	width: 400px; 
-	// padding: 10px;
-	// margin-bottom: 40px;
+
+	margin-bottom: 40px;
 	background: SteelBlue; 
 	}
 
 h3
 { color: white;
-	font-size: 20px; 
+	font-size: 10px; 
 	width: 400px; 
+			padding: 10px;
 	// padding: 10px;
 	// margin-bottom: 40px;
 	background: SteelBlue;
 	text-align: left; 
+		text-align: left; 
+
 	}
 
 h4
@@ -70,4 +78,4 @@ footer
 	// text-align: left
 
 	
-}style.css.scss
+}
